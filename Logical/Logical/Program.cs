@@ -1,9 +1,10 @@
 ﻿using Logical;
-    {
-    Reverse reverse=new Reverse();
-    reverse.ReverseNumber();
-
+{
+    Prime prime = new Prime();
+    prime.PrimeNumbers();
 }
+
+
 
 
 
