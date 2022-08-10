@@ -1,7 +1,7 @@
-﻿using CLogicaProgramsl;
+﻿using Logical;
     {
-    Armstron arm=new Armstron();
-    arm.Armstrong();
+    Reverse reverse=new Reverse();
+    reverse.ReverseNumber();
 
 }
 
