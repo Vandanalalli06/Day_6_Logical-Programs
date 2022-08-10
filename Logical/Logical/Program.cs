@@ -1,7 +1,7 @@
 ﻿using Logical;
 {
-    Prime prime = new Prime();
-    prime.PrimeNumbers();
+    Stopwatch stop = new Stopwatch();
+    stop.Stop_Watch();
 }
 
 
