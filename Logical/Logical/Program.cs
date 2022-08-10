@@ -1,17 +1,9 @@
-﻿namespace LogicalProgram
-{
-    class program
+﻿using CLogicaProgramsl;
     {
-        public static void Main(string[] args)
-        {
+    Armstron arm=new Armstron();
+    arm.Armstrong();
 
-            FibonacciSeriesProblem fib = new FibonacciSeriesProblem();
-            fib.FibonacciSeries();
-
-        }
-    }
 }
-
 
 
 
